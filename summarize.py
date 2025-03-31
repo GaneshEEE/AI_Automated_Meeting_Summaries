@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Set up Gemini API key
-genai.configure(api_key="AIzaSyACh0qNaMehr84I1hum2AcHi9Mf0VLapNQ")
+genai.configure(api_key="enter_api_key")
 
 # Load transcript
 with open("transcription.txt", "r") as file:
