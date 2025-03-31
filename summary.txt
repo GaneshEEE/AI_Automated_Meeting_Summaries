@@ -1,0 +1,4 @@
+* Project update:
+    * Backend integration complete.
+    * API fully functional.
+    * Development team currently working (unspecified task).
